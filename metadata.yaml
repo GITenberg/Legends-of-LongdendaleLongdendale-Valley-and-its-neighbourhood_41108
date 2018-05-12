@@ -1,0 +1,38 @@
+_repo: Legends-of-LongdendaleLongdendale-Valley-and-its-neighbourhood_41108
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41108-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Middleton, Thomas C. (Thomas Cooke)
+    alias: Middleton, Thomas Cooke
+    birthdate: 1842
+    deathdate: 1923
+    gutenberg_agent_id: '37520'
+    url: http://www.gutenberg.org/2009/agents/37520
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Cooke_Middleton
+description: ''
+gutenberg_issued: '2012-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41108'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Folklore -- England -- Cheshire'
+tableOfContents: 'The legend of Coombs Rocks -- The legend of Alman''s death: a tale
+  of Melandra Castle -- King Arthur''s adventure -- The legend of War Hill -- Sir
+  Ro, of Staley Hall -- Robin Hood''s visit to Longdendale -- The Abbot of Basingwerke,
+  or the wehr-wolf of Longdendale -- The Devil''s Elbow -- The legend of Charlesworth
+  Chapel -- Sir Edmund Shaa -- Lord Lovel''s fate -- The raiders from the border-side
+  -- The legend of Gallow''s Clough -- The King''s Evil: or the wonderful cure of
+  the Mottram parson -- The magic book -- The parson''s wife -- The Devil and the
+  doctor -- The writing on the window pane -- A legend of the Civil War -- A tale
+  of the ''45 -- The haunted farm -- The spectre hound -- The boggart of Godley Green.'
+title: "Legends of Longdendale\r\nBeing a series of tales founded upon the folk-lore\
+  \ of Longdendale Valley and its neighbourhood"
+url: http://www.gutenberg.org/ebooks/41108
